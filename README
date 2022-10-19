@@ -1,4 +1,14 @@
 Several well known machine approches implemented from the ground up using python
 
+
 ANN - Simple perceptron delta based neural network with backpropagation
 
+DecisionTree - Simple decision tree implemented using GINI impurity for dataset partitioning
+
+GA - Simple implementation of the genetic algorithm using both crossover and mutation
+
+GD - Simple implementation of gradient descent on a simple differential equation
+
+KM - KMeans for clustering data with a unsupervised approach
+
+KNN - K Nearest Neighbors for clustering data a with supervised approach
