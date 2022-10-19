@@ -1,1 +1,4 @@
-# Several well known machine approches implemented from the ground up
+Several well known machine approches implemented from the ground up using python
+
+ANN - Simple perceptron delta based neural network with backpropagation
+
